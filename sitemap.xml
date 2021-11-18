@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-11-18T21:44:12.460Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-11-18T21:44:12.460Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-11-18T21:44:12.460Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-11-18T21:44:12.460Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -669,6 +669,17 @@
             <loc>https://oldpersiangames.org/games/art-of-speed-tgpco/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/art-of-speed-tgpco-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/attack-tigers-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/attack-tigers-newtech-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -4171,6 +4182,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/in-the-realm-of-darkness-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/in-the-realm-of-darkness-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/incident-in-tehran-nuclear-energy-scientists-assassination-ourmazd/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/incident-in-tehran-nuclear-energy-scientists-assassination-ourmazd-1.jpg</image:loc>
@@ -4490,9 +4512,31 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/kind-imam-mosleh313/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/kind-imam-mosleh313-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/kiticat-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/kiticat-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/knight-rider-2-the-game-aryan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/knight-rider-2-the-game-aryan-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -4713,6 +4757,17 @@
             <loc>https://oldpersiangames.org/games/mafia-pcgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/mafia-pcgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/magic-castle-magiccastle/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/magic-castle-magiccastle-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -6390,6 +6445,17 @@
             <loc>https://oldpersiangames.org/games/raven-squad-operation-hidden-dagger-newtech/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/raven-squad-operation-hidden-dagger-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/razmavar-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/razmavar-modern-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9111,7 +9177,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-11-18T21:44:13.708Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-11-18T21:56:26.433Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
