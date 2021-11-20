@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-11-20T20:31:45.916Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-11-20T20:31:45.916Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-11-20T20:31:45.916Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-11-18T21:56:24.821Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-11-20T20:31:45.916Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -3282,6 +3282,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/et-armies-raspina/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/et-armies-raspina-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/evil-dead-regeneration-pardisgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/evil-dead-regeneration-pardisgame-1.jpg</image:loc>
@@ -3670,6 +3681,17 @@
             <loc>https://oldpersiangames.org/games/gears-of-war-vnv/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/gears-of-war-vnv-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/ghesehaye-maman-bahar-2-sourehnama/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/ghesehaye-maman-bahar-2-sourehnama-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -7322,6 +7344,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/sinking-island-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/sinking-island-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/sniper-elite-v2-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/sniper-elite-v2-asrebazi-1.jpg</image:loc>
@@ -7655,6 +7688,17 @@
             <loc>https://oldpersiangames.org/games/stronghold-2-magmasoft/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/stronghold-2-magmasoft-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/stronghold-2-sanobar/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/stronghold-2-sanobar-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9177,7 +9221,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-11-18T21:56:26.433Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-11-20T20:31:47.320Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
